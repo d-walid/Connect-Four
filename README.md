@@ -1,5 +1,5 @@
-Hello !
+Le but était de recréer le célèbre jeu de stratégie « Puissance 4 ».
 
-First project in pure JS/JQuery for my school. It's a version of Connect Four with some features (audio, managing board size).
+C’était un projet pour mon année d’études à Épitech lié au module « Javascript ».
 
-It's actually a non-finished project and i will add some features in the future.
+Il fallait respecter plusieurs contraintes spécifiques au projet et ajouter plusieurs options. Par exemple il fallait la possibilité de choisir la taille du terrain, mettre une musique d’ambiance et de victoire.
